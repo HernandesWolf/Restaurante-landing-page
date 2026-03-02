@@ -1,7 +1,7 @@
 # 🍕 Projeto Completo — Restaurante & Pizzaria Sabor 84
 Este repositório entrega uma solução full stack com **landing page moderna** + **API Java Spring Boot** para um restaurante familiar que funciona à noite e fins de semana.
 
-> Sempre que você quiser continuar, me diga: **“quero código”**, **“quero explicação”** ou **“quero os dois”**.
+
 
 ## 1) Estrutura de pastas (bem simples)
 
